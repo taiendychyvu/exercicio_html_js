@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(184, 182, 182);
+}
+
+.container {
+    margin: 80px auto;
+    max-width: 500px;
+    width: 100%;
+    text-align: center;
+}
+
+form {
+    width: 100%;
+}
+
+input {
+    display: inline;
+    width: 200px;
+}
+
+button {
+    width: 400px;
+    padding: 12px;
+    margin-top: 8px;
+}
+
+button:hover{
+    background-color: rgb(216, 178, 178);
+}
+
+h1{
+    margin-bottom: 12px;
+}
+
+h2{
+    margin-bottom: 8px;
+}
+
+.resultado{
+    margin-top: 14px;
+    font-size: 20px;
+
+}
+
